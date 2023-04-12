@@ -1,7 +1,8 @@
-# ACP_bulkRNAseq
+# NextGenBender
 
-A pipeline to perform a simple PCA on RNA-seq data. 
-Developped for Todorov et al. 2018 published in RIP journal Genomics and Computational Biology. 
+A pipeline to perform an Automated Processing of NGS Data from Raw Sequencing
+Files to Ready-To-Use Information Tables for Genome Modelling. 
+Developped for Deelen et al. 2018 published in the deceased journal "Genomics and Computational Biology." 
 
 	README.txt - 07.02.2018
 
